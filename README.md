@@ -111,6 +111,3 @@ LIMIT 10;
 ```
 
 ---
-
-
->>>>>>> 71b98f2 (Add project files including notebook, scripts, and data)
